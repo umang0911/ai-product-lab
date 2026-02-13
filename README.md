@@ -2,7 +2,7 @@
 # AI Product Lab
 
 This repository is my learning and experimentation hub for building real-world AI products as a non-coder.
-
+Author _ Umang Sharma
 Focus areas:
 - OCR automation for physical forms
 - RAG-based knowledge assistants
